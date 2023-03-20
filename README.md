@@ -1,5 +1,7 @@
 # Uffizzi Quickstart (~ 1 minute)
 
+...
+
 
 [![Demo](https://cdn.uffizzi.com/demo-button.svg)](https://app.qa-gke.uffizzi.com/demo/github.com/NealArw/quickstart)
 
